@@ -1,1 +1,6 @@
-# Janneth_Williams
+- [Categories](#categories)
+      - [Github Actions 🤖](#github-actions-)
+      - [GitHub Actions 🤖](#github-actions-)
+      - [Game Mode 🚀](#game-mode-)
+      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Dynamic Realtime 💫](#dynamic-realtime-)
