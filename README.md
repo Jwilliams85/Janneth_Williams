@@ -17,11 +17,11 @@ My name is Janneth, an entry-level full-stack engineer.  My creativety ranges fr
 <br>
 
 <a href="https://github.com/Build-Week-African-Marketplace-1-Jun-20">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github.com/Build-Week-African-Marketplace-1-Jun-204" />
 </a>
 
 <a href="https://github.com/BW-Water-My-Plants2/back-end">
-  <img align="center" style="margin:0.5rem" src="https://github.com/BW-Water-My-Plants2/back-end" />
+  <img align="center" style="margin:0.5rem" src="https://images.unsplash.com/photo-1602142937821-6d9cf950d17c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" />
 </a>
 
 <br>
