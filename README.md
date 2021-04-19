@@ -3,24 +3,25 @@
 
 Hi there! 👋
 
-My name is Janneth, an entry-level full-stack engineer.  My creativety ranges from rebushing furniture to designing fully functionaly appplications.  I love creating and seeing visions turn into reality. I am perseverant and determine to see any project come to fruiticion. 
+My name is Janneth, an entry-level full-stack engineer.  My creativety ranges from rebushing furniture to designing fully functionaly appplications.  I love creating and seeing visions turn into reality.  I am perseverant and determine to see any project come to fruiticion. 
+
 
 📌 Pinned Repositories
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Lambda-School-Labs/PT17_merchant-marketplace-a-fe">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/Lambda-School-Labs/PT17_merchant-marketplace-a-fe" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Build-Week-African-Marketplace-1-Jun-20">
+  <img align="center" style="margin:0.5rem" src="https://github.com/Build-Week-African-Marketplace-1-Jun-20" />
 </a>
 
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/BW-Water-My-Plants2/back-end">
+  <img align="center" style="margin:0.5rem" src="https://github.com/BW-Water-My-Plants2/back-end" />
 </a>
 
 <br>
