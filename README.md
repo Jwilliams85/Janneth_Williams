@@ -1,6 +1,4 @@
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/janneth-williams/)
-
 Hi there! 👋
 
 My name is Janneth, an entry-level full-stack engineer.  My creativity ranges from refurbishing furniture to designing fully functional applications.  I love creating and seeing visions turn into reality. I am perseverant and determined to see any project come to fruition. 
@@ -58,6 +56,8 @@ My name is Janneth, an entry-level full-stack engineer.  My creativity ranges fr
 <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 ...
 </details>
+<br>
+<br>
 Find me elsewhere 🌎
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/janneth-williams/)
