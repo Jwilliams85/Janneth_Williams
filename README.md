@@ -21,7 +21,7 @@ My name is Janneth, an entry-level full-stack engineer.  My creativety ranges fr
 </a>
 
 <a href="https://github.com/BW-Water-My-Plants2/back-end">
-  <img align="center" style="margin:0.5rem" src="https://images.unsplash.com/photo-1602142937821-6d9cf950d17c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" />
+  <img align="center" style="margin:0.5rem, width="100" height="100"" src="https://images.unsplash.com/photo-1602142937821-6d9cf950d17c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" />
 </a>
 
 <br>
