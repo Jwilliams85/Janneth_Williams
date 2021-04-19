@@ -29,7 +29,7 @@ My name is Janneth, an entry-level full-stack engineer.  My creativety ranges fr
 <br>
 
 
-<summary style="font:100 rem">Skills</summary>
+<summary>Skills</summary>
 <details>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
