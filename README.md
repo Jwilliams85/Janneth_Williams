@@ -11,13 +11,13 @@ My name is Janneth, an entry-level full-stack engineer.  My creativety ranges fr
 <br>
 
 <a href="https://github.com/Lambda-School-Labs/PT17_merchant-marketplace-a-fe">
-  <img align="center" style="margin:1rem 0.5rem, size: 0.5 rem" src="https://github.com/Lambda-School-Labs/PT17_merchant-marketplace-a-fe" />
+  <img align="center" style="margin:1rem 0.5rem, size: 0.5 rem, width="100" height="100"" src="https://images.unsplash.com/photo-1532079563951-0c8a7dacddb3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" />
 </a>
 
 <br>
 
 <a href="https://github.com/Build-Week-African-Marketplace-1-Jun-20">
-  <img align="center" style="margin:0.5rem" src="https://github.com/Build-Week-African-Marketplace-1-Jun-204" />
+  <img align="center" style="margin:0.5rem, width="100" height="100"" src="https://images.unsplash.com/photo-1575303093127-18b3c4ef8c41?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YWZyaWNhbiUyMG1hcmtldHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
 </a>
 
 <a href="https://github.com/BW-Water-My-Plants2/back-end">
