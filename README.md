@@ -3,7 +3,7 @@
 
 Hi there! 👋
 
-My name is Janneth, an entry-level full-stack engineer.  My creativety ranges from rebushing furniture to designing fully functionaly appplications.  I love creating and seeing visions turn into reality.  I am perseverant and determine to see any project come to fruiticion. 
+My name is Janneth, an entry-level full-stack engineer.  My creativity ranges from rebushing furniture to designing fully functional applications.  I love creating and seeing visions turn into reality. I am perseverant and determined to see any project come to fruition.
 
 
 📌 Pinned Repositories
@@ -29,7 +29,7 @@ My name is Janneth, an entry-level full-stack engineer.  My creativety ranges fr
 <br>
 
 
-<summary>Skills</summary>
+💼 Skills
 <details>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
