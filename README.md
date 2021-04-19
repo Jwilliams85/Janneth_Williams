@@ -11,7 +11,7 @@ My name is Janneth, an entry-level full-stack engineer.  My creativety ranges fr
 <br>
 
 <a href="https://github.com/Lambda-School-Labs/PT17_merchant-marketplace-a-fe">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/Lambda-School-Labs/PT17_merchant-marketplace-a-fe" />
+  <img align="center" style="margin:1rem 0.5rem, size: 0.5 rem" src="https://github.com/Lambda-School-Labs/PT17_merchant-marketplace-a-fe" />
 </a>
 
 <br>
